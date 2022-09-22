@@ -26,7 +26,7 @@ let key =[
 ]
     
     let arr = roman.split()
-    //console.log(arr)
+    console.log(arr)
 //     let value = []
 //     for(i = 0; i <= arr.length-1; i++){
        
